@@ -39,9 +39,5 @@ This work was supported through the Junta de Castilla y León (JCyL) (regional g
 
 <!--Add the funding picture-->
 ![Funding](funding/funding_project.svg)
-
-<img hspace="1.3%" align="center" width="22%" src="funding/FEDER.svg">
-<img hspace="1.3%" align="center" width="22%" src="funding/JCYL.svg">
-<img hspace="1.3%" align="center" width="22%" src="funding/JCYL_impulsa.svg"><img hspace="1.3%" align="center" width="22%" src="funding/fondo-social-europeo.svg">
-
+![Funding](funding/funding_project_cyl.svg)
 
